@@ -68,7 +68,7 @@ Performed data preprocessing, feature engineering, and exploratory data analysis
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME
+- github: https://github.com/selena1920/sankeetha.git
+- LinkedIn: https://www.linkedin.com/i n/sankeetha
 
 ⭐ Thanks for visiting my profile!
