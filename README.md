@@ -1,6 +1,6 @@
-# Hi 👋, I'm Sankeetha
+# Hi , I'm Sankeetha
 
-### AI Data Analyst | Python Developer | Data Analytics Enthusiast
+### AI Data Analyst | Data Analytics Enthusiast
 
 Welcome to my GitHub! I'm a Computer Science graduate passionate about transforming data into meaningful insights using Python, SQL, Power BI, and Artificial Intelligence. I enjoy analyzing data, building machine learning models, creating interactive dashboards, and solving real-world business problems through data-driven solutions.
 
@@ -64,7 +64,6 @@ Performed data preprocessing, feature engineering, and exploratory data analysis
 - Artificial Intelligence
 - Deep Learning
 - Generative AI
-- Cloud Technologies for Data Analytics
 
 ## 📫 Connect With Me
 
